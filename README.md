@@ -1,2 +1,1 @@
-# IOT-Assignment
-Programming Assignment - Inventory Only Ticketing in Go
+# Programming Assignment - Inventory Only Ticketing in Go
